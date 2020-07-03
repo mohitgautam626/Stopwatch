@@ -1,0 +1,41 @@
+.bgdiv{
+  background-color:white;
+  opacity:0.8;
+  margin-top:170px;
+}
+.watch-head{
+  color:black;
+  font-family:'Notable',sans-serif;
+  text-align:center;
+}
+.watch{
+  font-family:'Orbitron',sans-serif;
+}
+.watch-digit{
+  font-size:70px;
+  color:black;
+  text-align:center;
+}
+.font1{
+  color:red;
+  font-size:15px;
+  margin-left:140px;
+}
+.font2{
+  color:red;
+  font-size:15px;
+  margin-left:65px;
+}
+.font3{
+  color:red;
+  font-size:15px;
+  margin-left:50px;
+}
+.font4{
+  color:red;
+  font-size:15px;
+  margin-left:25px;
+}
+.btn1{
+  font-family:'Orbitron',sans-serif;
+}
